@@ -1,0 +1,6 @@
+framework module Pods_TestSantufei {
+  umbrella header "Pods-TestSantufei-umbrella.h"
+
+  export *
+  module * { export * }
+}
